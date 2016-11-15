@@ -1,0 +1,4 @@
+C:\Documents\Visual Studio 2010\Projects\Library_MVC_KasperskyLab\Library_MVC_KasperskyLab\bin\Release\Library_MVC_KasperskyLab.exe
+C:\Documents\Visual Studio 2010\Projects\Library_MVC_KasperskyLab\Library_MVC_KasperskyLab\bin\Release\Library_MVC_KasperskyLab.pdb
+C:\Documents\Visual Studio 2010\Projects\Library_MVC_KasperskyLab\Library_MVC_KasperskyLab\obj\x86\Release\Library_MVC_KasperskyLab.exe
+C:\Documents\Visual Studio 2010\Projects\Library_MVC_KasperskyLab\Library_MVC_KasperskyLab\obj\x86\Release\Library_MVC_KasperskyLab.pdb
