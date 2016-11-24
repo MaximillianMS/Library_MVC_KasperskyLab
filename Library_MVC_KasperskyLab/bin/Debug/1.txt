@@ -1,0 +1,18 @@
+//Adding a book:
+//B:Id;Title;Author
+//Adding a visitor:
+//V:Id;Name
+//Adding a issue
+//I:Visitor_Id;Book_Id;dd.MM.yyyy
+B:0;Poirot Investigates;A. Christie;
+B:1;The Big Four     ;A. Christie;
+B:2;The Hobbit       ;J. R. Tolkien;
+B:3;A Game of Thrones;G. R. Martin;
+B:4;A Clockwork Orange;A. Burgess;
+V:0;Maxim Nesterov;
+V:1;Boris Stepanov;
+V:2;Sergey Onufriev;
+I:0;0;11.10.2016;
+I:2;4;24.11.2016;
+I:1;2;20.11.2016;
+I:2;3;09.09.2007;
